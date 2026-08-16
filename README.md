@@ -8,3 +8,5 @@ There was combined:
 + CAN-bus data, 
 + strain-gauge hands-on application and measurement, 
 + acoustics measurement.
+
+![Our team](dewesoft_summer_camp.JPG)
