@@ -9,6 +9,6 @@ There was combined:
 + strain-gauge hands-on application and measurement, 
 + acoustics measurement.
 
-![Our team](dewesoft_summer_camp.JPG)
+![Our team](images/dewesoft_summer_camp.JPG)
 
 The challenges are further described here:
