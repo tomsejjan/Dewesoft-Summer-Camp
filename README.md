@@ -7,10 +7,14 @@ There was combined:
 + inertial navigation (IMU), 
 + CAN-bus data, 
 + strain-gauge hands-on application and measurement, 
-+ acoustics measurement.
++ acoustics measurement, etc.
 
 ![Our team](images/dewesoft_summer_camp.JPG)
 
 The challenges are further described here:
 + [The setup of the inertial measurement unit](daq_setup.md)
 + [The acoustic analysis](acoustic_analysis.md)
++ [The strain gauge challenge](stg_analysis.md)
++ [Precision driving](precision_driving.md)
++ [CAN analysis](can.md)
++ [0-40-0 challenge](0_40_0.md)
