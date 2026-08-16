@@ -10,3 +10,5 @@ There was combined:
 + acoustics measurement.
 
 ![Our team](dewesoft_summer_camp.JPG)
+
+The challenges are further described here:
