@@ -12,3 +12,5 @@ There was combined:
 ![Our team](images/dewesoft_summer_camp.JPG)
 
 The challenges are further described here:
++ [The setup of the inertial measurement unit](daq_setup.md)
++ [The acoustic analysis](acoustic_analysis.md)
