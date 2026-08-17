@@ -34,15 +34,17 @@ Important considerations included:
 - cable management,
 - reliable power supply.
 
-![DAQ setup](images/daq_setup.jpg)
-
+![DAQ setup](images/imu.png)
+![DAQ setup](images/imu_montage.png)
 ## Power Supply
 
-The measurement system was powered from the vehicle electrical system
+The measurement system (with a computer as a centre) was powered from the vehicle electrical system
 using a DC/DC converter and a backup battery to maintain operation during
-voltage drops.
+voltage drops according to the schematic.
 
-![Power supply](images/power_supply.jpg)
+![Power supply](images/daq_setup.png)
+
+However, our team came across the issue that the battery ran out of power and it created a short circuit for the car power supply. Therefore, our decision was cutting it of.
 
 ## IMU Initialization
 
