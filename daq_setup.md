@@ -15,7 +15,9 @@ The IMU combines:
 - accelerometers,
 - gyroscopes,
 - GNSS positioning,
-- real-time sensor fusion.
+- real-time sensor fusion
+
+using a Kalman filter.
 
 This provides information about the vehicle's position, orientation,
 acceleration and motion.
