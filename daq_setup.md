@@ -44,7 +44,7 @@ voltage drops according to the schematic.
 
 ![Power supply](images/daq_setup.png)
 
-However, our team came across the issue that the battery ran out of power and it created a short circuit for the car power supply. Therefore, our decision was cutting it of.
+However, our team came across the issue that the battery ran out of power and it created a short circuit for the car power supply. Therefore, our decision was cutting it off.
 
 ## IMU Initialization
 
