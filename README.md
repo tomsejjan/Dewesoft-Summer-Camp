@@ -10,8 +10,8 @@ There was combined:
 + acoustics measurement, etc.
 
 ![Our team](images/dewesoft_summer_camp.JPG)
-
 ![Our car](images/team_car.png)
+
 The challenges are further described here:
 + [The setup of the inertial measurement unit](daq_setup.md)
 + [The acoustic analysis](acoustic_analysis.md)
