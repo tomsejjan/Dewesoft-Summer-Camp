@@ -39,7 +39,8 @@ pressure signal and in terms of its perceived sound level.
 ## Practical Challenge
 
 The measurement setup was used to characterize the noise produced by
-the Mini Cooper under the specified test conditions.
+the Mini Cooper under the specified test conditions – to come up with the loudest possible MINI configuration
+and the quietest possible MINI configuration.
 
 Measurement results will be added
 
