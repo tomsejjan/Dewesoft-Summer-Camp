@@ -36,8 +36,6 @@ sensitivity of human hearing.
 The acquired signal can therefore be evaluated both as a physical
 pressure signal and in terms of its perceived sound level.
 
-![Sound level measurement](images/acoustic_analysis.jpg)
-
 ## Practical Challenge
 
 The measurement setup was used to characterize the noise produced by
