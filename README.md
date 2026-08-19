@@ -1,5 +1,6 @@
 # Dewesoft Summer Camp 2026 — Project Overview
 
+Click [HERE](https://dewesoft.com/) to get more info about Dewesoft company.
 A hands-on team engineering project organized as a set of collaborative technical practical test-and-measurement challenges.  
 
 The goal was to build and operate a **complete vehicle measurement setup** for instrumenting and testing a Mini Cooper (using professional data-acquisition hardware **Dewesoft Sirius** and **DewesoftX**).
