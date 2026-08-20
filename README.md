@@ -20,3 +20,5 @@ The challenges are further described here:
 + [Precision driving](precision_driving.md)
 + [CAN analysis](can.md)
 + [0-40-0 challenge](0_40_0.md)
+
+Click [HERE](dewesoft_certificate.pdf) to see my certificate of attendance.
